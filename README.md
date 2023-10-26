@@ -8,6 +8,5 @@ Task 2: Target high value customers based on customer demographic and attributes
 
 Task 3: Create a dashboard for the client to see the customer's target list and look at their broad segments. 
 
-Please note that:
-- All Excel files above belong to KPMG for virtual internship purposes
+Please note that: *All Excel files above belong to KPMG for virtual internship purposes*
 
