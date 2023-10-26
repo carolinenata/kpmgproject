@@ -7,3 +7,6 @@ Task 1: There are 3 types of datasets (Customer List, Customer Segmentation and 
 Task 2: Target high value customers based on customer demographic and attributes. Develop a powerpoint presentation to dive deep into the customer segmentation.
 
 Task 3: Create a dashboard for the client to see the customer's target list and look at their broad segments. 
+
+Please note that:
+- All Excel files above belong to KPMG for virtual internship purposes
